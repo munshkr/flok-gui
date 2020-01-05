@@ -9,6 +9,11 @@
     "type" : "git",
     "url" : "https://github.com/munshkr/flok-gui.git"
   },
+  "build": {
+    "publish": {
+      "provider": "github"
+    }
+  },
   "scripts": {
     "dev": "electron-webpack dev",
     "compile": "electron-webpack",
