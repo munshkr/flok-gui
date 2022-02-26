@@ -4,8 +4,7 @@ A cross-platform GUI application for using Flok for collaborative live coding.
 
 See [flok](https://github.com/munshkr/flok) for more.
 
-*Work in progress*: Soon there will be cross-platform binaries to download at
-the [Releases page](https://github.com/munshkr/flok-gui/releases)
+*Update: this project is currently on hold*
 
 
 ## Development
